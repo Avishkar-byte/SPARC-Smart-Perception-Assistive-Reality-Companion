@@ -326,9 +326,6 @@ ENV=CI python main.py
 - Intel for RealSense SDK (extended compatibility)
 - TensorFlow/Keras community
 
-## Support
-
-For issues, questions, or contributions, please [add your contact/support information].
 
 ---
 
